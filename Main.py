@@ -1,7 +1,5 @@
-8910048683:AAENK_cjf5YvGFGqNpG6xM6wgXyGwkKswRA
-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
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ОТ_BOTFATHER"
-API_KEY = "ТВОЙ_OPENROUTER_KEY"
+BOT_TOKEN = "8910048683:AAENK_cjf5YvGFGqNpG6xM6wgXyGwkKswRA"
+API_KEY = "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"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
